@@ -14,6 +14,6 @@ An interactive Business Intelligence (BI) tool built with **Streamlit** and **Py
 - **Data:** Pandas / Numpy
 
 ## 📦 Installation
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/churn-prediction-app.git`
+1. Clone the repo: ' https://github.com/codewithrohini/churn-prediction-model.git '
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
